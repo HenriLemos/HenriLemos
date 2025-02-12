@@ -21,6 +21,11 @@
 
 <br/>
 
+<div>
+    ## Meu Portfólio
+    <a href="techrick.com"></a>
+</div>
+
 ## Cursos
 Curso de Java e Angular Fullstack -
 Santander Academy
