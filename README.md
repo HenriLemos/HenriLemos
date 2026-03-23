@@ -17,7 +17,7 @@
     
 </div>
 
-## Tenho 3 anos de experiência em Java e desenvolvimento Web Fullstack.Trabalho com foco nas necessidades do cliente, e entrega do produto. Tenho conhecimento sobre as metodologias ágeis, esteira DevOps e DevSecOps, bem como SCRUM.
+## Tenho experiência em Java e desenvolvimento Web Fullstack.Trabalho com foco nas necessidades do cliente, e entrega do produto. Tenho conhecimento sobre as metodologias ágeis, esteira DevOps e DevSecOps, bem como SCRUM.
 
 <br/>
 
